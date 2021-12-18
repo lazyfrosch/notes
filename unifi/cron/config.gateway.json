@@ -1,0 +1,14 @@
+{
+    "system": {
+        "task-scheduler": {
+            "task": {
+                "reboot": {
+                    "crontab-spec": "0 3 * * *",
+                    "executable": {
+                        "path": "/config/scripts/reconnect.sh"
+                    }
+                }
+            }
+        }
+    }
+}
