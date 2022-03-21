@@ -13,6 +13,9 @@ Ubuntu   | 22.04 ???    | 2027-04 ?
 RHEL     | 6            | **2020-11-06**
 RHEL     | 7            | 2024-06-30
 RHEL     | 8            | 2029-05-31
+OEL      | 6            | **2021-05**
+OEL      | 7            | 2024-07
+OEL      | 8            | 2029-07
 SLES     | 12 SP4       | **2020-06-30**
 SLES     | 12 SP5       | 2024-10-31
 SLES     | 15 SP1       | **2021-01-31**
@@ -29,8 +32,9 @@ Windows  | Server 2019  | approx. 2028
 OS                           | Type                   | Documentation
 -----------------------------|------------------------|---------------------------------------------------------------------------------------------------
 Debian                       | Full Support and LTS   | [wiki.debian.org](https://wiki.debian.org/DebianReleases#Production_Releases)
-Ubuntu                       | LTS and Standard       | [wiki.ubuntu.com](https://wiki.ubuntu.com/Releases)
+Ubuntu                       | LTS releases           | [wiki.ubuntu.com](https://wiki.ubuntu.com/Releases)
 RedHat Enterprise Linux      | Maintainance Support 2 | [access.redhat.com](https://access.redhat.com/support/policy/updates/errata#Life_Cycle_Dates)
+Oracle Linux OEL             | Premier Support        | [pdf on oracle.com](https://www.oracle.com/us/support/library/elsp-lifetime-069338.pdf)
 SUSE Linux Enterprise Server | General Support        | [suse.com](https://www.suse.com/lifecycle/)
 openSUSE                     | Lifetime Support       | [opensuse.org](https://en.opensuse.org/Lifetime)
 Windows                      | Extended Support       | [support.microsoft.com](https://docs.microsoft.com/de-de/lifecycle/products/?products=windows)
