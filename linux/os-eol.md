@@ -4,28 +4,32 @@ A collection of some interesting EOL dates:
 
 OS       | Version      | Supported until
 ---------|--------------|--------------------------
-Debian   | 9 stretch    | **2020** / 2022-06 (LTS)
-Debian   | 10 buster    | ~2022-08 / TBD (LTS)
-Debian   | 11 bullseye  | TBD
+Debian   | ~9 stretch~  | ~2020 / 2022-06 (LTS)~
+Debian   | 10 buster    | \~2022-08 / \~2024-06 (LTS)
+Debian   | 11 bullseye  | \~2024-07 / \~2026-06 (LTS)
 Ubuntu   | 18.04 bionic | 2023-04
 Ubuntu   | 20.04 focal  | 2025-04
-Ubuntu   | 22.04 ???    | 2027-04 ?
-RHEL     | 6            | **2020-11-06**
+Ubuntu   | 22.04 jammy  | 2027-04 ?
+RHEL     | ~6~          | ~2020-11-06~
 RHEL     | 7            | 2024-06-30
 RHEL     | 8            | 2029-05-31
-OEL      | 6            | **2021-05**
+RHEL     | 9            | 2032-06-31
+OEL      | ~6~          | ~2021-05~
 OEL      | 7            | 2024-07
 OEL      | 8            | 2029-07
-SLES     | 12 SP4       | **2020-06-30**
+OEL      | 9            | 2032-06
+SLES     | 12 SP4       | ~2020-06-30~
 SLES     | 12 SP5       | 2024-10-31
-SLES     | 15 SP1       | **2021-01-31**
-SLES     | 15 SP2       | **2021-12-31**
-SLES     | 15 SP3       | (6 months after SP 4 release)
+SLES     | 15 SP1       | ~2021-01-31~
+SLES     | 15 SP2       | ~2021-12-31~
+SLES     | 15 SP3       | **2022-12-31**
+SLES     | 15 SP4       | (6 months after SP 5 release)
 SLES     | 15 (gen)     | 2028-06-31
+Windows  | Server 2008  | ~2020-01-14~
 Windows  | Server 2012  | 2023-10-10
 Windows  | Server 2016  | 2027-01-12
-Windows  | Server 2019  | approx. 2028
-
+Windows  | Server 2019  | 2029-01-09
+Windows  | Server 2022  | 2031-10-14
 
 ## Documentation on release cycles
 
